@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\bin\Debug\net9.0\HayvanatBahcesiApp.exe
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\bin\Debug\net9.0\HayvanatBahcesiApp.deps.json
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\bin\Debug\net9.0\HayvanatBahcesiApp.runtimeconfig.json
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\bin\Debug\net9.0\HayvanatBahcesiApp.dll
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\bin\Debug\net9.0\HayvanatBahcesiApp.pdb
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\HayvanatBahcesiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\HayvanatBahcesiApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\HayvanatBahcesiApp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\HayvanatBahcesiApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\HayvanatBahcesiApp.dll
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\refint\HayvanatBahcesiApp.dll
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\HayvanatBahcesiApp.pdb
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\HayvanatBahcesiApp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\HayvanatBahcesi\HayvanatBahcesiApp\obj\Debug\net9.0\ref\HayvanatBahcesiApp.dll
